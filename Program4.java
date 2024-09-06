@@ -11,15 +11,15 @@ double average = 0;
 System.out.println ("Please enter the value 1: ");
 num1 = myScanner.nextInt();
 System. out.printin ("Please enter the value 2: ");
-num2 = myScanner.nextInt);
+num2 = myScanner.nextInt();
 System.out.printin ("Please enter the value 3: ");
-num3 = myScanner.nextInt);
-System.out-println ("Please enter the value 4: ");
-num4 = myScanner.nextInt);
-sum = numi+num2+num3+num4;
-average- sum/4.0;
-System.out-printin("The sum of the four numbers is "+ sum);
-System.out-println("The average of the four numbers is " + average);
+num3 = myScanner.nextInt();
+System.out.println ("Please enter the value 4: ");
+num4 = myScanner.nextInt();
+sum = num1+num2+num3+num4;
+average= sum/4.0;
+System.out.println("The sum of the four numbers is "+ sum);
+System.out.println("The average of the four numbers is " + average);
 //Paste console output below:
 /*
 475
